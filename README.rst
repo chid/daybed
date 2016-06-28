@@ -1,6 +1,8 @@
 Daybed
 ######
 
+.. WARNING:: This package has been replaced with Kinto <https://github.com/Kinto/kinto>_
+
     *A Web API providing validation and storage as a service*
 
 
